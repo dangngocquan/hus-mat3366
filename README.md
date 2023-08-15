@@ -1,4 +1,5 @@
-# HUSMAT3366
+# hus-mat3366
+
 Exercises of MAT3366 - Computer System, HUS
 - Đây là nơi lưu trữ bài tập đã làm của môn "Hệ thống máy tính", mã học phần MAT3366
 
